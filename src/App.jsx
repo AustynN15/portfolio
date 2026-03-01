@@ -156,7 +156,6 @@ export default function App() {
           <div style={styles.sectionHeader}>
             <h2 style={{ ...styles.sectionTitle, color: accent }}>Education</h2>
             <div style={styles.sectionSub}>
-              A clear timeline showing my academic path from McNeese to LSU.
             </div>
           </div>
 
@@ -228,8 +227,6 @@ export default function App() {
           <div style={styles.sectionHeader}>
             <h2 style={{ ...styles.sectionTitle, color: accent }}>Projects</h2>
             <div style={styles.sectionSub}>
-              These projects show how I think through design, implementation, and
-              collaboration.
             </div>
           </div>
 
@@ -362,7 +359,6 @@ export default function App() {
           <div style={styles.sectionHeader}>
             <h2 style={{ ...styles.sectionTitle, color: accent }}>Skills</h2>
             <div style={styles.sectionSub}>
-              A filled-out layout so the section doesn’t feel plain.
             </div>
           </div>
 
